@@ -92,7 +92,7 @@ namespace outrun
 
 
         /// <summary>
-        /// Recursively prints the path from the bottom
+        /// Recursively prints the path from the start
         /// </summary>
         /// <param name="outrun"></param>
         /// <param name="node"></param>
