@@ -39,7 +39,7 @@ namespace outrun
 
 
         /// <summary>
-        /// Create an arraylist containing the nodes. Sort of resembles a min heap
+        /// Create a list containing the nodes. Sort of resembles a heap in table format
         /// </summary>
         /// <returns></returns>
         private static List<Node> BuildTree(String filepath)
